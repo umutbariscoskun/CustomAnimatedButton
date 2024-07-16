@@ -2,7 +2,7 @@
 
 ## Usage
 
-Wrap your widget with a Custom Animated Widget to obtain an animated button.
+Wrap your widget with a CustomAnimatedButton to obtain an animated button.
 
 ```dart
 CustomAnimatedButton(

@@ -17,7 +17,4 @@ CustomAnimatedButton(
       ),
 ```
 
-
-[untitled.webm](https://github.com/user-attachments/assets/d89f6b7c-67d6-4b4d-99e6-471366e9928e)
-
 # CustomAnimatedButton
